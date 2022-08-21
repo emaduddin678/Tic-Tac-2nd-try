@@ -34,4 +34,11 @@ ol,ul {
 .square:focus {
   outline: none;
 }
-
+.game {
+  display: flex;
+  flex-direction: row;
+}
+.game-info {
+  font-weight: bold;
+  margin-left: 20px;
+}
